@@ -35,8 +35,7 @@ Part 2 Q1 :
 
 ### Write about any difficult problem that you solved. (According to us difficult - is something which 90% of people would have only 10% probability in getting a similarly good solution).
 
-- I have observed personally, people are good at programming, however sometimes lagging in understanding the business.
-- In one of our project, at the initial stage we were facing problem to understand the business and to get start with the solution, at that time I have created & represented HLD, LLD and Wireframe with all my related research, after getting approval we started working on it.
+- In my previous job when I was working as a Site Engineer, labours refused to do the work and the deadline was very close, however I calmly monitored the situation and talked to them and later convinced them to complete the work.
 - This is one of the incident, I have contributed in so many such scenarios.
 
 
