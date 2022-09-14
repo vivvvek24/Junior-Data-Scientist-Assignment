@@ -25,6 +25,8 @@ the prediction with below test data.
 
 **Solution** - (https://colab.research.google.com/drive/1FBZnDKpgANxDroLTXeZAgfWYrJrmGC1K?usp=sharing)
 
+App Link- https://customerrprediction.herokuapp.com/
+
 
 
 
