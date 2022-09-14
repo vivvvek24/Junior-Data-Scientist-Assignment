@@ -29,7 +29,7 @@ the prediction with below test data.
 
 
 
-#Part 2 Q1 :
+Part 2 Q1 :
 -
 ---
 
@@ -40,7 +40,7 @@ the prediction with below test data.
 - This is one of the incident, I have contributed in so many such scenarios.
 
 
-#Part 2 Q2 :
+Part 2 Q2 :
 -
 ---
 
