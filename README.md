@@ -27,7 +27,9 @@ the prediction with below test data.
 
 
 
-Part 2 Q1 :
+
+
+#Part 2 Q1 :
 -
 ---
 
@@ -38,10 +40,29 @@ Part 2 Q1 :
 - This is one of the incident, I have contributed in so many such scenarios.
 
 
-Part 2 Q2 :
+#Part 2 Q2 :
 -
 ---
 
 
+
+
+
 ### Explain back propagation and tell us how you handle a dataset if 4 out of 30 parameters have null values more than 40 percentage
+
+Backpropagation is the process of neural network training. It is the method of fine-tuning the weights of a neural network based on the error rate obtained in the previous epoch (i.e., iteration). Proper tuning of the weights allows you to reduce error rates and make the model reliable by increasing its generalization.
+
+Backpropagation in neural network is a short form for “backward propagation of errors.” It is a standard method of training artificial neural networks. This method helps calculate the gradient of a loss function with respect to all the weights in the network.
+
+here are the following are ways to handle missing data values:
+
+1. If the data set is large:
+
+We can just simply remove the rows with missing data values.
+It is the quickest way, we use the rest of the data to predict the values.
+2. For smaller data sets:
+
+We can substitute missing values with the mean or average of the rest of the data using the pandas' data frame in python. There are different ways to do so, such as df.mean(), df.fillna(mean).
+
+
 
